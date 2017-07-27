@@ -60,3 +60,14 @@ Output:
     (int list) [0, 3, 2, 9, 14]
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
+
+
+# Reference
+
+http://www.vartang.com/2013/02/%E5%90%B8%E6%94%B6%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E9%93%BE/
+
+https://en.wikipedia.org/wiki/Absorbing_Markov_chain
+
+https://gist.github.com/endolith/114336
+
+https://sskaje.me/2017/05/googles-foo-bar-doomsday-fuel/
